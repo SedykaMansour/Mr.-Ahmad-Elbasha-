@@ -145,7 +145,7 @@ Made by Sedyka Mansour Elbatran
     </main>
 
     <footer>
-        <p>© 2024 Mr. Ahmad El Basha | Educational Content for Everyone</p>
+        <p>© 2024 Mr. Ahmad El Basha |This website is made by Sedyka Mansour| Educational Content for Everyone</p>
     </footer>
 </body>
 </html>
